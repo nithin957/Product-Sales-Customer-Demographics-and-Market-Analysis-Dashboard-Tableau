@@ -122,4 +122,3 @@ The primary goal of this project is to explore the relationships between product
 This project illustrates how Tableau can be used to build intuitive and interactive dashboards for business stakeholders. The layered approach to visualizing sales, customers, demographics, and market trends allows for a comprehensive analysis of business performance.
 
 
-Email: [sainithinbilli@example.com](mailto:sainithinbilli@example.com)  *(replace with actual email before publishing)*
